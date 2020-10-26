@@ -1,3 +1,3 @@
 # Product landing page
 
-This is a pretend product landing page for a bespoke menswear website.
+This repository contains files fora pretend product landing page for a bespoke menswear website.
